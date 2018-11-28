@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Todo App</string>
+
+    <string name="firebase_base_url">Todo App</string>
+
+    <!--TodoDetail-->
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add_failed_message">Failed to add TODO.</string>
+    <string name="update_failed_message">Failed to update TODO.</string>
+    <string name="delete_failed_message">Failed to delete TODO.</string>
+    <string name="event_success">TODO is %1$s.</string>
+    <string name="value_is_empty">Value is empty.</string>
 </resources>
